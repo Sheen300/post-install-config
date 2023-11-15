@@ -60,3 +60,5 @@ This tutorial outlines the post-install configuration of the open-source help de
 - ![image](https://github.com/Sheen300/post-install-config/assets/150862861/e3986f97-1d83-4c6c-816d-129c35269cc3)
 
 - DONE!!
+
+- To clean up. Go back to This PC. C drive. inetpub. wwwroot. osTicket. "Setup" folder. Delete.
