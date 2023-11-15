@@ -17,7 +17,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Step 1: Go back inside portal.azure.com and click on Virtual Machines. Select the virtual machine that was created and copy the Public IP address. Open remote desktop from the Start memu. Create a new connection by copying the IP address into remote desktop.
+- Step 1: Go inside portal.azure.com and click on Virtual Machines. Select the virtual machine that was created and copy the Public IP address. Open remote desktop from the Start memu. Create a new connection by copying the IP address into remote desktop.
 - Step 2: Click Start. Control panel. Programs. Click Turn Windows features on or off. Internet formation services. Application development features. Check CGI. Common http features. Check every box. Click OK. Close when completed. To test that it has worked. Go to a web browser and type the following: 127.0.0.1. This image should have appeared if it was done correctly.
 
 - ![image](https://github.com/Sheen300/post-install-config/assets/150862861/d7a7bf4a-b034-4486-a12d-6a195b26b450)
